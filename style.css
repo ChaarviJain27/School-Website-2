@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+#lamarts {
+    background: linear-gradient(#19cfbf 15%, #e7eb0c 85%);
+    height:950px;
+    padding-top: 30px;
+}
+#divakid {
+    display: inline;
+}
+#para {
+    color: blueviolet;
+}
+#img {
+    height: 100;
+}
+#divakid {
+position: fixed;
+    background-color: black;
+    color: bisque;
+    text-decoration: none;
+}
+ul {
+    width: 100%;
+}
+.fi {
+height: 200px
+}
+#campus {
+   background: linear-gradient(#f2bde2 15%, #e5bdf2 85%); 
+}
